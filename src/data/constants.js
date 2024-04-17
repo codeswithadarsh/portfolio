@@ -9,7 +9,7 @@ export const Bio = {
     "I am a passionate Front-End Developer and Programmer with a creative flair for crafting immersive digital experiences.",
   github: "https://github.com/codeswithadarsh",
   resume:
-    "https://drive.google.com/file/d/1RASfhd6Ly0trd2Mil588VSbpEaAXrR6D/view?usp=sharing",
+    "https://drive.google.com/file/d/1fGNHE7_M4vF5d1ePnlU2zKZo0UYKVGbe/view",
   linkedin: "https://www.linkedin.com/in/codewithadarsh/",
   twitter: "https://twitter.com/codewithadarsh",
   insta: "https://www.instagram.com/adrshpandey369/",
@@ -233,6 +233,55 @@ export const education = [
 ];
 
 export const projects = [
+  
+  {
+    id: 0,
+    title: "Crypto Tracker",
+    // date: "Jul 2023 -  2023",
+    description:
+      "Track real-time prices, monitor market trends, and manage your crypto portfolio all in one place. With intuitive design and comprehensive data, managing your crypto investments has never been easier.",
+    image:
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis0c7vT2qISEjkXN8nglD4wa0_OzrRKdwUAs8XF5h6v7C_h9F9iEvV4k1C4xzSiM0LPOH4YCIDR2n_lkYqkqYf8w1XEb054utGS8LsfakFRzl2KkoklXxIZVoEH-a4i09DIJ11NMW5RfFqne_vqDhuz8dGSx08PQmMsws67Bn0s6W-mZ2Ea0-oT7Sn_Ww/s2121/60ac266a6504ef557c57f9c5_00-Header@2x.png",
+    tags: ["React.js", "APIs", "Node.js", "Javascript"],
+    category: "web app",
+    github: "https://github.com/codeswithadarsh/CryptoTracker",
+    webapp: "https://crypto-tracker-webapp.vercel.app/",
+    member: [
+    ],
+  },
+
+  {
+    id: 0,
+    title: "Neura AI",
+    // date: "Jul 2023 -  2023",
+    description:
+      "Engage in intelligent conversations and get instant answers to your queries with our AI-powered chatbot. Whether you need assistance, information, or just a friendly chat, our AI chatbot is here to help, anytime, anywhere.",
+    image:
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXQQQv7kMCfYipvGoIiYBZtU-ErfQoHVzMztR3SwzT7ajtzDSeSvj-ecWICKw4KLFLW_USH7Dr1Se9CrHZ9gH1vLIQE6SzwQTPhVEqFYZD_vP7GBaIaaJNG3xVJF6Z3RNIHP4M5p5Vhbqt-QNBiK8rfDP9b2JFkfMA0PDMlWp5ANLgPmMK7dRKLyxo2ro/s1460/ai-chatbot-app.png",
+    tags: ["React.js", "Javascript", "Node.js", "AI APIs"],
+    category: "web app",
+    github: "https://github.com/codeswithadarsh/Neura",
+    webapp: "https://neuraai.vercel.app/",
+    member: [
+    ],
+  },
+
+  {
+    id: 0,
+    title: "Recipe Book",
+    // date: "Jul 2023 -  2023",
+    description:
+      "Organized categorically and featuring step-by-step instructions, our Recipe Book makes cooking a breeze for both beginners and seasoned chefs alike.",
+    image:
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaxSrVXeVW3QXKJu93mBn9QBR8pWGmwV-rEMHXG-mRr_1hRmA1VPBIB-kejnzq9c9IO6rX4wUzuTnCLlbLvMXbA2gSINxU15mhc7XaPhJ1nUzebI0_w5QfJA9hEM3Gd0SzXIQde6FOVwWs2l_2kLfX4U64l1IheuG4it33NpqCdKPMMF3MplTNY6EHZQ0/s16000/AdobeStock_329547615-1080x675.jpeg",
+    tags: ["React.js", "Javascript", "Node.js", "APIs"],
+    category: "web app",
+    github: "https://github.com/codeswithadarsh/RecipeBook",
+    webapp: "https://recipe-book-sandy.vercel.app/",
+    member: [
+    ],
+  },
+
   {
     id: 9,
     title: "Excel-Book",
@@ -251,6 +300,7 @@ export const projects = [
     github: "https://github.com/codeswithadarsh/Excel-Sheet",
     webapp: "https://codeswithadarsh.github.io/Excel-Sheet/",
   },
+
   {
     id: 0,
     title: "Weather App",
@@ -266,6 +316,7 @@ export const projects = [
     member: [
     ],
   },
+
   {
     id: 1,
     title: "Post Office Location Finder",
@@ -291,7 +342,7 @@ export const projects = [
     description:
     "Ecommerce app made using Javascript and Firebase. User can create account , login using credentials and add items to cart. Sellers can also create their Account here and add their Products.",
     image:
-      "https://camo.githubusercontent.com/63f86688bdf745600d0464a365dfd55215efbe0ecfcfe1519b95a3faaa86ceb2/68747470733a2f2f626c6f676765722e676f6f676c6575736572636f6e74656e742e636f6d2f696d672f612f4156765873456a4d554c46544a477553444e71464861536c7a7541484e486568785f4756494954475831454541344b6c7a6d66446e6a556b3531686a544a4d7064534f494d4f73496d71717a33304a647252636d53766d4a714368696c6a53414f754b533144424d59464f6f4a44535a564a566c777333426738556365345375464561484f554b6c7878516942594c633978556b7a4e714d666e6f2d6261612d643357434c336d6d4f4a6c38695952664e594871524b666651625473414657534d4c303d733136303030",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEjMULFTJGuSDNqFHaSlzuAHNHehx_GVIITGX1EEA4KlzmfDnjUk51hjTJMpdSOIMOsImqqz30JdrRcmSvmJqChiljSAOuKS1DBMYFOoJDSZVJVlws3Bg8Uce4SuFEaHOUKlxxQiBYLc9xUkzNqMfno-baa-d3WCL3mmOJl8iYRfNYHqRKffQbTsAFWSML0=s16000",
     tags: ["Javascript", "Firebase", "Stripe", "Node.Js"],
     category: "web app",
     github: "https://github.com/codeswithadarsh/DevStore",
@@ -299,6 +350,22 @@ export const projects = [
     member: [
     ],
   },
+
+  {
+    id: 3,
+    title: "Resume Maker",
+    // date: "Jul 2023 - Jul 2023",
+    description:
+      "Elevate your career with our Resume Maker project. Craft professional resumes effortlessly with our intuitive platform, designed to streamline the resume-building process. Tailor your resume to your industry with customizable templates.",
+    image:
+      "https://codecanyon.img.customer.envatousercontent.com/files/430346560/Resume%20Maker%20Banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=caec92b42013b6418e4817266280c15a",
+    tags: ["Javascript", "HTML", "CSS"],
+    category: "game",
+    github: "https://github.com/codeswithadarsh/Resume-Maker",
+    webapp: "https://myresume-maker.vercel.app/",
+  },
+
+
   {
     id: 3,
     title: "TIC-TAC-TOE",
@@ -463,19 +530,19 @@ export const projects = [
     webapp: "https://codeswithadarsh.github.io/Personal-Portfolio/",
   },
 
-  {
-    id: 10,
-    title: "Jira Clone App",
-    // date: "Oct 2022 - Oct 2023",
-    description:
-      "Crafted with code, my personal portfolio project seamlessly blends HTML, CSS, and JavaScript. A digital showcase, it reflects my skills and passion. Dive into a visual journey, where design meets functionality in a harmonious web experience.",
-    image:
-      "https://codeswithadarsh.github.io/Personal-Portfolio/zira.png",
-    tags: ["HTML", "CSS", "Javascript"],
-    category: "web app",
-    github: "https://github.com/codeswithadarsh/Jira-Clone",
-    webapp: "https://codeswithadarsh.github.io/Jira-Clone/",
-  },
+  // {
+  //   id: 10,
+  //   title: "Jira Clone App",
+  //   // date: "Oct 2022 - Oct 2023",
+  //   description:
+  //     "Crafted with code, my personal portfolio project seamlessly blends HTML, CSS, and JavaScript. A digital showcase, it reflects my skills and passion. Dive into a visual journey, where design meets functionality in a harmonious web experience.",
+  //   image:
+  //     "https://codeswithadarsh.github.io/Personal-Portfolio/zira.png",
+  //   tags: ["HTML", "CSS", "Javascript"],
+  //   category: "web app",
+  //   github: "https://github.com/codeswithadarsh/Jira-Clone",
+  //   webapp: "https://codeswithadarsh.github.io/Jira-Clone/",
+  // },
 
   {
     id: 10,
