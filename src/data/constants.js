@@ -250,21 +250,21 @@ export const projects = [
     ],
   },
 
-  {
-    id: 0,
-    title: "GitHunt",
-    // date: "Jul 2023 -  2023",
-    description:
-      "Discover developers and explore their GitHub profiles with ease using our GitHub Profile Finder. Seamlessly search for users, view their repositories, contributions, and more, all within a simple and intuitive interface.",
-    image:
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbzCzIl7ol-IfrH0c5YyXB_MRLZ5f2dEW-azB1tcbcNXthjo4r7Q1bmcEtODTMzP5XCwaL37AK4Eyiyf4jJ-UIRaxc_UzVQ446BgINmRA12m_vOCw3BwwuDpNGCxFNfUd9Y3zfyvKzHFbDA8tCbExPH-n53wvGpz6SbHMVvKcGpQZPIvuaS9rAg1ybbH4/s16000/Screenshot%202024-04-20%20213345.png",
-    tags: ["Angular", "Typescript", "APIs", "Node.js", "Javascript"],
-    category: "web app",
-    github: "https://github.com/codeswithadarsh/GittHunt",
-    webapp: "https://githunt-finder.vercel.app/",
-    member: [
-    ],
-  },
+  // {
+  //   id: 0,
+  //   title: "GitHunt",
+  //   // date: "Jul 2023 -  2023",
+  //   description:
+  //     "Discover developers and explore their GitHub profiles with ease using our GitHub Profile Finder. Seamlessly search for users, view their repositories, contributions, and more, all within a simple and intuitive interface.",
+  //   image:
+  //     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbzCzIl7ol-IfrH0c5YyXB_MRLZ5f2dEW-azB1tcbcNXthjo4r7Q1bmcEtODTMzP5XCwaL37AK4Eyiyf4jJ-UIRaxc_UzVQ446BgINmRA12m_vOCw3BwwuDpNGCxFNfUd9Y3zfyvKzHFbDA8tCbExPH-n53wvGpz6SbHMVvKcGpQZPIvuaS9rAg1ybbH4/s16000/Screenshot%202024-04-20%20213345.png",
+  //   tags: ["Angular", "Typescript", "APIs", "Node.js", "Javascript"],
+  //   category: "web app",
+  //   github: "https://github.com/codeswithadarsh/GittHunt",
+  //   webapp: "https://githunt-finder.vercel.app/",
+  //   member: [
+  //   ],
+  // },
 
   {
     id: 0,
