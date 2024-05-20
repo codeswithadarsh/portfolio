@@ -9,7 +9,7 @@ export const Bio = {
     "I am a passionate Front-End Developer and Programmer with a creative flair for crafting immersive digital experiences.",
   github: "https://github.com/codeswithadarsh",
   resume:
-    "https://drive.google.com/file/d/1fGNHE7_M4vF5d1ePnlU2zKZo0UYKVGbe/view",
+    "https://drive.google.com/file/d/1eaJI_7MUwby02NGZEidp7jLTa2AHMSzc/view",
   linkedin: "https://www.linkedin.com/in/codewithadarsh/",
   twitter: "https://twitter.com/codewithadarsh",
   insta: "https://www.instagram.com/adrshpandey369/",
