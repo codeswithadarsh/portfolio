@@ -1,15 +1,15 @@
 export const Bio = {
   name: "Adarsh Pandey",
   roles: [
-    "Front-End Developer🚀",
+    "Software Developer🚀",
     "Programmer🧑‍💻",
     "Blogger 📝",
   ],
   description:
-    "I am a passionate Front-End Developer and Programmer with a creative flair for crafting immersive digital experiences.",
+    "I am a passionate Software Developer and Programmer with a creative flair for crafting immersive digital experiences.",
   github: "https://github.com/codeswithadarsh",
   resume:
-    "https://drive.google.com/file/d/1eaJI_7MUwby02NGZEidp7jLTa2AHMSzc/view",
+    "https://drive.google.com/file/",
   linkedin: "https://www.linkedin.com/in/codewithadarsh/",
   twitter: "https://twitter.com/codewithadarsh",
   insta: "https://www.instagram.com/adrshpandey369/",
