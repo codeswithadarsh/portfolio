@@ -102,7 +102,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023-24 Adarsh Pandey. All rights reserved.
+          &copy; 2024-25 Adarsh Pandey. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

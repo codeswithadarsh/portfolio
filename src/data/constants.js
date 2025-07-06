@@ -2,8 +2,8 @@ export const Bio = {
   name: "Adarsh Pandey",
   roles: [
     "Software Developer 🚀",
-    "Programmer 🧑‍💻",
-    "Creating with Code 💻✨"
+    "Full Stack Developer 💻",
+    "Problem Solver 🧠",
   ],
   description: "I’m a Software Developer with a strong foundation in building scalable and user-centric applications. While I've worked extensively on fintech products—like KYC flows, investment platforms, and UPI-integrated systems—my true passion lies in solving real-world problems through clean, efficient, and thoughtful code across industries.",
 
@@ -104,7 +104,7 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
       },
-       {
+      {
         name: "Cursor AI",
         image:
           "https://images.prismic.io/sacra/Z0Sul68jQArT1Sb7_cursorlogo.png?auto=format,compress",
@@ -145,20 +145,20 @@ export const experiences = [
       "React.js",
       "Redux",
       "JavaScript",
+      "Springboot",
       "HTML",
       "CSS",
       "RESTful APIs",
       "Postman",
       "Swagger",
       "SSO Authentication",
-      "Modular Architecture",
       "System Optimization",
     ],
     doc: "",
   },
   {
     id: 0,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-ZPnqddf6JGdQ5Wh24Mbu5OCmZ7GKr2-rA&s", 
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-ZPnqddf6JGdQ5Wh24Mbu5OCmZ7GKr2-rA&s",
     role: "Software Engineer Intern",
     company: "XenonStack",
     date: "Feb 2024 – Apr 2024",
@@ -235,23 +235,23 @@ export const experiences = [
     ],
     doc: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmDDkfldtFYm3JVj5thFd3JiATZpUStet5ezqkLShrrrnaa0tjpRfbipbSznu-kFi-6R0nR4nQbRafJadXSoebTSiXVFt499Ww1Th3BMDJTrdhYLP4HCREGOWJgP3-7_KJy_JV65rAkEKs9aGr64cAEyTn0CCThIXkpv4ZEKBiwMeGfofDN7fUPBfjNYE/s16000/Screenshot%202023-11-18%20125258.png",
   },
-  {
-    id: 2,
-    img: "https://itbots.in/uploads/company_logos/logo_thumbs/64e48d7920446_thumb.png",
-    role: "Frontent Development Intern",
-    company: "College Ranker (Twilearn)",
-    date: "Sept 2022 - Oct 2022",
-    desc: "Implemented responsive design for optimal viewing on different devices, ensuring scalability for future growth. Successfully resolved technical issues with effective troubleshooting to ensure functionality during the internship",
-    skills: [
-      "HTML",
-      "CSS",
-      "Javascript",
-      "API",
-      "Git",
-      "Github",
-    ],
-    doc: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLJmNGy-8Xlb-OMWAGvwCZYY4AXT6PmrXaqAtbzCyDegFsqb7q4K-xGn-6RczmG0VLUlOxSZaDvy4MbLNaEu9t_IA7NXZn-VX4ky8XvtOTAfcdaMuyUxBTXpb3rgJM6b94_vyU9T9DTbhN5zUFjocZpPLwvRawpp9G8nvz64UcClBCyLn_MCgXAc5fF90/s16000/Screenshot%202023-11-18%20125626.png",
-  },
+  // {
+  //   id: 2,
+  //   img: "https://itbots.in/uploads/company_logos/logo_thumbs/64e48d7920446_thumb.png",
+  //   role: "Frontent Development Intern",
+  //   company: "College Ranker (Twilearn)",
+  //   date: "Sept 2022 - Oct 2022",
+  //   desc: "Implemented responsive design for optimal viewing on different devices, ensuring scalability for future growth. Successfully resolved technical issues with effective troubleshooting to ensure functionality during the internship",
+  //   skills: [
+  //     "HTML",
+  //     "CSS",
+  //     "Javascript",
+  //     "API",
+  //     "Git",
+  //     "Github",
+  //   ],
+  //   doc: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLJmNGy-8Xlb-OMWAGvwCZYY4AXT6PmrXaqAtbzCyDegFsqb7q4K-xGn-6RczmG0VLUlOxSZaDvy4MbLNaEu9t_IA7NXZn-VX4ky8XvtOTAfcdaMuyUxBTXpb3rgJM6b94_vyU9T9DTbhN5zUFjocZpPLwvRawpp9G8nvz64UcClBCyLn_MCgXAc5fF90/s16000/Screenshot%202023-11-18%20125626.png",
+  // },
 
 ];
 
@@ -427,7 +427,7 @@ export const projects = [
     description:
       "Elevate your career with our Resume Maker project. Craft professional resumes effortlessly with our intuitive platform, designed to streamline the resume-building process. Tailor your resume to your industry with customizable templates.",
     image:
-      "https://codecanyon.img.customer.envatousercontent.com/files/430346560/Resume%20Maker%20Banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=caec92b42013b6418e4817266280c15a",
+      "https://youngcapital-uploads-production.s3.eu-west-1.amazonaws.com/nl/public/Image/cv_example_cv_maker_1663757604.jpg",
     tags: ["Javascript", "HTML", "CSS"],
     category: "game",
     github: "https://github.com/codeswithadarsh/Resume-Maker",
